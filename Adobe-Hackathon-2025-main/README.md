@@ -107,14 +107,6 @@ In the next phase, we'll create a smart webapp using Adobe PDF Embed API that al
 
 ---
 
-## 👥 Team
-
-
-* **Yashasvi Yadav** – AI & Document Intelligence and Multi-PDF Linking & Backend Structuring
-*  **Lekhni Bakliwal** – Research and Documentation
-
----
-
 ## 📌 Status
 
 | Challenge | Status         |
