@@ -1,0 +1,219 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Test Your Acrobat Exporting Skills.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-26T12:36:34.141197"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and Sign PDF Forms",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "of PDF forms",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Types of PDF forms",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and sign PDF forms",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill in PDF Forms",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Is the form fillable?",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill in interactive forms",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Auto-Complete forms (interactive forms",
+            "importance_rank": 2,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Save forms",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Print forms",
+            "importance_rank": 2,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Manage your bulk sends",
+            "importance_rank": 2,
+            "page_number": 17
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Create the appearance of a certificate-based signature",
+            "importance_rank": 2,
+            "page_number": 25
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "What\u2019s the best way to create a PDF?",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Drag-and-drop to create PDFs",
+            "importance_rank": 2,
+            "page_number": 9
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a blank PDF",
+            "importance_rank": 2,
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create multiple PDFs from multiple files",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Using Create PDF cloud service for PDF",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and share the link for viewing or commenting",
+            "importance_rank": 2,
+            "page_number": 15
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and share via Outlook",
+            "importance_rank": 2,
+            "page_number": 16
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF as an email attachment",
+            "importance_rank": 2,
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and send it for review",
+            "importance_rank": 2,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a PDF and run an action",
+            "importance_rank": 2,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "PDF/A Compliance",
+            "importance_rank": 2,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create PDFs from Word mail merges",
+            "importance_rank": 2,
+            "page_number": 27
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create Bookmarks",
+            "importance_rank": 2,
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Compliance Standard",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create PDFs by printing to file",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create a PDF using the Print command (Windows)",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Create a PDF using the Print command (Mac OS X)",
+            "importance_rank": 2,
+            "page_number": 12
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Synthesized Summary",
+            "refined_text": "In response to your query 'Create and manage fillable forms for onboarding and compliance.', here are the key findings from the documents:\n\n- Regarding 'Change flat forms to fillable (Acrobat Pro)', the document suggests: \"You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms.\" (from Learn Acrobat - Fill and Sign.pdf, page 12)\n- Regarding 'Fill and Sign PDF Forms', the document suggests: \"You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types\" (from Learn Acrobat - Fill and Sign.pdf, page 1)\n- Regarding 'Types of PDF forms', the document suggests: \"\u2022 Interactive forms: These contain fields that you can select and fill in. \u2022 Flat forms: These do not have interactive fields.\" (from Learn Acrobat - Fill and Sign.pdf, page 2)\n- Regarding 'Fill and sign PDF forms', the document suggests: \"To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar.\" (from Learn Acrobat - Fill and Sign.pdf, page 2)",
+            "page_number_constraints": [
+                12,
+                1,
+                1,
+                2,
+                2
+            ]
+        }
+    ]
+}
